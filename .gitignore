@@ -1,0 +1,5 @@
+#ignore files related to API keys
+config.js
+
+#An image I might use for an application of this twitter-bot
+robotMorty.png
